@@ -18,3 +18,5 @@ Currently I am a student of Masai School and Learning Full Stack Web development
 
 ## 🛠 Skills
 HTML,CSS,Javascript,React,Redux,NodeJS,Express,MongoDB,GIT
+
+css3 express html5 javascript mongodb nodejs postman react
