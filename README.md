@@ -8,7 +8,7 @@ An enthusiastic web developer having passion for building websites.
 - 🌱 I’m currently learning Node-js, Express and Mongo db .
 - 💬 Ask me about Javascript,HTML,CSS,React,Redux
 - 📫 How to reach me shashankfeb16@gmail.com
-- ⚡ Some of my best project available at https://portfolio-l01yyckr4-shashankfeb16-gmailcom.vercel.app
+- ⚡ Some of my best project available at https://shashankfeb16.vercel.app/
 - ⚡ Fun fact I am Passionate to play Pc games 🚶
 
 
